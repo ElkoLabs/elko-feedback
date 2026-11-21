@@ -19,8 +19,8 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/ElkoAI/elko-feedback/internal/server"
-	"github.com/ElkoAI/elko-feedback/internal/store"
+	"github.com/ElkoLabs/elko-feedback/internal/server"
+	"github.com/ElkoLabs/elko-feedback/internal/store"
 )
 
 func env(k, def string) string {

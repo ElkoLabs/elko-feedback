@@ -30,7 +30,7 @@ Example host used below: `feedback.elko.ai`. Substitute your own.
 ```bash
 # 1. code
 sudo mkdir -p /opt/elko-feedback && cd /opt/elko-feedback
-git clone https://github.com/ElkoAI/elko-feedback.git .
+git clone https://github.com/ElkoLabs/elko-feedback.git .
 mkdir -p data && sudo chown 65532:65532 data            # distroless nonroot uid
 
 # 2. build + start (Traefik must share the external "proxy" network; adjust the

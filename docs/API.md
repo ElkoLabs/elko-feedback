@@ -111,7 +111,7 @@ Custom field `type` is `text`, `textarea` or `select`.
 
 ## Go client / MCP
 
-`github.com/ElkoAI/elko-feedback/pkg/client`:
+`github.com/ElkoLabs/elko-feedback/pkg/client`:
 
 ```go
 id, err := client.New("https://feedback.elko.ai").Submit(ctx, client.Feedback{

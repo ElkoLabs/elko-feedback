@@ -1,4 +1,4 @@
-module github.com/ElkoAI/elko-feedback
+module github.com/ElkoLabs/elko-feedback
 
 go 1.26.0
 

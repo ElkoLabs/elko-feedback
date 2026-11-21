@@ -17,7 +17,7 @@ Point a "Give Feedback" link at it from a Docker Hub page, a CLI, an MCP server 
 ## Quick start
 
 ```bash
-git clone https://github.com/ElkoAI/elko-feedback.git && cd elko-feedback
+git clone https://github.com/ElkoLabs/elko-feedback.git && cd elko-feedback
 ./run.sh admin admin   # create the first admin (prompts for a password, min 10 chars)
 ./run.sh               # build, seed example channels, serve on :8080
 ```

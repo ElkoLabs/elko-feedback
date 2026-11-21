@@ -22,7 +22,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/ElkoAI/elko-feedback/internal/store"
+	"github.com/ElkoLabs/elko-feedback/internal/store"
 )
 
 //go:embed web

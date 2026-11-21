@@ -12,8 +12,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/ElkoAI/elko-feedback/internal/store"
-	"github.com/ElkoAI/elko-feedback/pkg/client"
+	"github.com/ElkoLabs/elko-feedback/internal/store"
+	"github.com/ElkoLabs/elko-feedback/pkg/client"
 )
 
 func setup(t *testing.T) (*httptest.Server, *store.Store) {

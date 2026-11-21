@@ -8,7 +8,7 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/ElkoAI/elko-feedback/pkg/client"
+	"github.com/ElkoLabs/elko-feedback/pkg/client"
 	"github.com/mark3labs/mcp-go/mcp"
 	"github.com/mark3labs/mcp-go/server"
 )
